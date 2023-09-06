@@ -18,7 +18,7 @@ global.mods = ['6285786539008','18155545188']
 global.prems = ['6285786539008', '18155545188']
 
 // apikey
-global.lann = 'apikeylu'
+global.lann = 'chuDEfcB'
 // apikeylu di ganti menggunakan apikey yang di dapatkan di website https://api.betabotz.org. contohnya global.lann = 'nans' (contoh). cara mendapatkan apikey. masuk website > scroll ke bawah dan cari harga yang kamu mau ada juga yang free dan tekan > otomatis akan di arahkan untuk registrasi, isi data diri email dll. > kalo sudah klik profil dan di situ akan muncul apikey mu. terima kasih.
 
 global.APIKeys = { // APIKey Here
