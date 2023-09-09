@@ -10,12 +10,12 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['18155545188', 'FAHRUL', true],
+  ['15735703567', 'FAHRUL', true],
   ['6285786539008']
 ] // Nomor Owner
 
-global.mods = ['6285786539008','18155545188'] 
-global.prems = ['6285786539008', '18155545188']
+global.mods = ['6285786539008','15735703567'] 
+global.prems = ['6285786539008', '15735703567']
 
 // apikey
 global.lann = 'chuDEfcB'
